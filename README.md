@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduardo11k
+- 👋 Hi, eu sou O Eduardo Mateus
 - 👀 Estou interessado por desenvolvimento nativo para Android,SDk e todas ferramentas incluídas 
 - 💻 Estou aprendendo de momento Java/Kotlin 
 - 💞️ E pronto pra colaborar com projetos ligados a causas já citadas 
