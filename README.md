@@ -29,7 +29,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### Vamos nos conectar!
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
-- **LinkedIn**: [Eduardo Mateus](https://www.linkedin.com/in/tavaresmateus)
+- **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavaresmateus)
 - **Twitter**: [@eduardomateusdev](https://twitter.com/edumateus11)
 
 ---
@@ -37,8 +37,8 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### 📊 Estatísticas do GitHub
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Eduardo Mateus Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&hide_border=true&theme=radical" alt="Top Linguagens" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo11k&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Eduardo Mateus Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11k&layout=compact&hide_border=true&theme=radical" alt="Top Linguagens" />
 </div>
 
 ---
