@@ -29,8 +29,8 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### Vamos nos conectar!
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
-- **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavaresmateus)
-- **Twitter**: [@eduardomateusdev](https://twitter.com/edumateus11)
+- **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Twitter**: [@devwriter](https://twitter.com/edumateus11)
 
 ---
 
@@ -48,7 +48,6 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
  Apoie meu trabalho no Ko-fi ☕  
 Se você gosta do que eu faço, considere me apoiar no [Ko-fi](https://ko-fi.com/eduardomateus)!  
 
-s)
 
 <!---
 Eduardo11k/Eduardo11k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
