@@ -1,6 +1,6 @@
 # Eduardo Mateus
 
-## Desenvolvedor Android | Web Front-End (Básico) | Linguagens de Programação
+## Desenvolvedor Android | Web Front-End (Iniciante) | Linguagens de Programação
 
 ### Olá, sou o Eduardo! 👋
 Desenvolvedor Android apaixonado por criar experiências de usuário incríveis e soluções eficientes. Além disso, tenho interesse em Web Front-End e sou entusiasta de várias linguagens de programação.
@@ -8,8 +8,8 @@ Desenvolvedor Android apaixonado por criar experiências de usuário incríveis 
 ### Tecnologias que eu domino:
 - **Android Development**: Kotlin, Java
 - **Web Development (básico)**: HTML, CSS, JavaScript
-- **Linguagens de Programação**: Python, C++
-- **Ferramentas e Frameworks**: Git, Firebase, Retrofit, Android SDK
+- **Linguagens de Programação**: Python, C/C++
+- **Ferramentas e Frameworks**: Git, Firebase, Retrofit, Jetpack Compose, Android SDK
 - **Outros**: Discord Bot Development, APIs
 
 ### Projetos em destaque:
@@ -30,7 +30,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
 - **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**: [@devwriter](https://twitter.com/edumateus11)
+- **Twitter**: [@devwriter](https://instagram.com/tavaresmateus1)
 
 ---
 
