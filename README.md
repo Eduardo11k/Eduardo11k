@@ -17,7 +17,7 @@ Desenvolvedor Android apaixonado por criar experiências de usuário incríveis 
 - **[Bobhelper - Discord Bot (Python)](https://github.com/Eduardo11k/Bobhelper)**  
   Um bot para o Discord, desenvolvido em Python, que oferece uma série de funcionalidades como comandos customizados e automações para servidores.
 
-- **[WordLens-AI - Aplicativo móvel (Kotlin)](https://github.com/Eduardo11k/Bobhelper)**  
+- **[WordLens-AI - Aplicativo móvel (Kotlin)](https://github.com/Eduardo11k/WordlLensAI)**  
 O WorldLens AI transforma o mundo físico em uma sala de aula interativa. Os usuários simplesmente apontam a câmera para um objeto e a IA cria lições personalizadas, quizzes, resumos e desafios de acompanhamento com base no nível de conhecimento do aluno.
 
 - **[DevWriter - Meu website pessoal](https://https://eduardo11k.github.io/index.html)**  
