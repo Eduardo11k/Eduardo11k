@@ -33,7 +33,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
 - **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter**: [@devwriter](https://instagram.com/tavaresmateus1)
+- **Instagram**: [@devwriter](https://instagram.com/tavaresmateus1)
 
 ---
 
