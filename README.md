@@ -32,8 +32,8 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### Vamos nos conectar!
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
-- **LinkedIn**: [Tavares Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Instagram**: [@devwriter](https://instagram.com/tavaresmateus1)
+- **LinkedIn**: [Eduardo Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246)
+- **Instagram**: [@tavaresmateus1](https://instagram.com/tavaresmateus1)
 
 ---
 
