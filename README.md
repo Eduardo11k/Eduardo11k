@@ -9,7 +9,7 @@ Desenvolvedor Android apaixonado por criar experiências de usuário incríveis 
 - **Android Development**: Kotlin, Java
 - **Web Development (básico)**: HTML, CSS, JavaScript
 - **Linguagens de Programação**: Python, C/C++
-- **Ferramentas e Frameworks**: Git, Firebase, Retrofit, Jetpack Compose, Android SDK
+- **Ferramentas e Frameworks**: Git, Firebase, Retrofit, Docker, Jetpack Compose, Android SDK
 - **Outros**: Discord Bot Development, APIs
 
 ### Projetos em destaque:
@@ -32,7 +32,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### Vamos nos conectar!
 
 - **GitHub**: [@eduardomateus](https://github.com/Eduardo11k)
-- **LinkedIn**: [Eduardo Mateus](https://www.linkedin.com/in/tavares-mateus-4bb889246)
+- **LinkedIn**: [Eduardo Mateus](https://www.linkedin.com/in/eduardo-mateus-4bb889246)
 - **Instagram**: [@tavaresmateus1](https://instagram.com/tavaresmateus1)
 
 ---
