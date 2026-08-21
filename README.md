@@ -18,14 +18,20 @@ Desenvolvedor Android apaixonado por criar experiências de usuário incríveis 
   Um bot para o Discord, desenvolvido em Python, que oferece uma série de funcionalidades como comandos customizados e automações para servidores.
 
 - **[WordLens-AI - Aplicativo móvel (Kotlin)](https://github.com/Eduardo11k/WordlLensAI)**  
-O WorldLens AI transforma o mundo físico em uma sala de aula interativa. Os usuários simplesmente apontam a câmera para um objeto e a IA cria lições personalizadas, quizzes, resumos e desafios de acompanhamento com base no nível de conhecimento do aluno.
+O WorldLens AI transforma o mundo físico em uma sala de aula interativa. Os usuários simplesmente apontam a câmera para um objeto e a IA cria lições personalizadas, quizzes, resumos e desafios.
 
-- **[DevWriter - Meu website pessoal](https://https://eduardo11k.github.io/index.html)**  
+- **[DevWriter - Meu website pessoal](https://eduardo11k.github.io/index.html)**  
   Meu portfólio pessoal, onde compartilho meus projetos, ideias e artigos sobre desenvolvimento de software. Dê uma olhada no meu trabalho e fique à vontade para me contactar!
 
 ### "Quando me disseram que o limite é o céu, eu disse: por que não a lua?" 🚀
 
 Acredito que sempre podemos ir além e, com cada linha de código, busco transformar ideias em realidade.
+
+---
+
+### 📚 Certificados
+
+[![Boot.dev Learn Docker certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c8ff7651-a326-48a3-a1cf-8d0bcb7d56de.jpeg?v=1787334305)](https://www.boot.dev/certificates/c8ff7651-a326-48a3-a1cf-8d0bcb7d56de)
 
 ---
 
@@ -40,7 +46,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 ### 📊 Estatísticas do GitHub
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo11k&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Eduardo Mateus Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo11k&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" alt="Eduardo Mateus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo11k&layout=compact&hide_border=true&theme=radical" alt="Top Linguagens" />
 </div>
 
