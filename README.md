@@ -31,7 +31,7 @@ Acredito que sempre podemos ir além e, com cada linha de código, busco transfo
 
 ### Vamos nos conectar!
 
-- **GitHub**: [@aEduardo11k](https://github.com/Eduardo11k)
+- **GitHub**: [@Eduardo11k](https://github.com/Eduardo11k)
 - **LinkedIn**: [Eduardo Mateus](https://www.linkedin.com/in/eduardo-mateus-4bb889246)
 - **Instagram**: [@tavaresmateus1](https://instagram.com/tavaresmateus1)
 
