@@ -1,27 +1,98 @@
-# Eduardo Mateus
+# Edu Mateus
 
-## Desenvolvedor Android | Web Front-End (Iniciante) | Linguagens de Programação
+## Android Developer | Kotlin | Jetpack Compose | Software Development
 
-### Olá, sou o Eduardo! 👋
-Desenvolvedor Android apaixonado por criar experiências de usuário incríveis e soluções eficientes. Além disso, tenho interesse em Web Front-End e sou entusiasta de várias linguagens de programação.
+> **Comecei programando código. Hoje, além de apps e histórias, programo o meu próprio caminho. 💻✍️**
 
-### Tecnologias que eu domino:
-- **Android Development**: Kotlin, Java
-- **Web Development (básico)**: HTML, CSS, JavaScript
-- **Linguagens de Programação**: Python, C/C++
-- **Ferramentas e Frameworks**: Git, Firebase, Retrofit, Docker, Jetpack Compose, Android SDK
-- **Outros**: Discord Bot Development, APIs
+### 👋 Sobre mim
 
-### Projetos em destaque:
+Sou desenvolvedor de software com foco em **Android**, utilizando principalmente **Kotlin e Jetpack Compose**.
 
-- **[Bobhelper - Discord Bot (Python)](https://github.com/Eduardo11k/Bobhelper)**  
-  Um bot para o Discord, desenvolvido em Python, que oferece uma série de funcionalidades como comandos customizados e automações para servidores.
+Gosto de transformar ideias e problemas reais em aplicações funcionais, procurando entender não apenas *como* implementar uma funcionalidade, mas também *por que* ela deve ser construída daquela forma.
 
-- **[WordLens-AI - Aplicativo móvel (Kotlin)](https://github.com/Eduardo11k/WordlLensAI)**  
-O WorldLens AI transforma o mundo físico em uma sala de aula interativa. Os usuários simplesmente apontam a câmera para um objeto e a IA cria lições personalizadas, quizzes, resumos e desafios.
+Minha experiência prática envolve desenvolvimento de interfaces, gerenciamento de estado, consumo de APIs, persistência de dados, autenticação e integração com serviços externos. Também tenho experiência com desenvolvimento de bots e automações em Python e conhecimentos em desenvolvimento Web.
 
-- **[DevWriter - Meu website pessoal](https://eduardo11k.github.io/index.html)**  
-  Meu portfólio pessoal, onde compartilho meus projetos, ideias e artigos sobre desenvolvimento de software. Dê uma olhada no meu trabalho e fique à vontade para me contactar!
+Atualmente, continuo aprofundando meus conhecimentos em **arquitetura Android, persistência local, APIs REST, concorrência, segurança e boas práticas de desenvolvimento**, sempre através de projetos práticos.
+
+---
+
+### 🛠️ Tecnologias
+
+**Android**
+- Kotlin
+- Jetpack Compose
+- Android SDK
+- ViewModel
+- StateFlow / Flow
+- Coroutines
+- Room / SQLite
+- Firebase / Firestore
+- Retrofit
+- REST APIs
+
+**Desenvolvimento**
+- Python
+- Java
+- C / C++
+- HTML / CSS / JavaScript
+
+**Ferramentas E IA**
+- Git / GitHub
+- Docker
+- Android Studio
+- VS Code
+- Codex
+- Antigravity IDE
+- Claude Code
+- Cline
+
+**Outros**
+- Discord Bot Development
+- APIs e integrações
+  
+---
+
+### 🚀 Projetos em destaque
+
+#### 🤖 [Bobhelper — Discord Bot](https://github.com/Eduardo11k/Bobhelper)
+
+Bot para Discord desenvolvido em **Python**, com funcionalidades de automação e comandos personalizados para servidores.
+
+**Tecnologias:** Python · Discord API · APIs
+
+---
+
+#### 📱 [WordLens AI — Aplicativo Android](https://github.com/Eduardo11k/ScamShieldAI)
+
+Aplicativo Android desenvolvido com **Kotlin**, é um aplicativo para Android que ajuda as pessoas a identificar golpes antes de interagirem com eles.
+
+**Tecnologias:** Kotlin · Android · Jetpack Compose · AI . cameraX
+
+---
+
+#### 🌐 [DevWriter — Website Pessoal](https://devwriter.dev)
+
+Meu espaço pessoal que serve de portifólio para apresentar projetos, experiências e escrever sobre tecnologia e desenvolvimento de software.
+
+---
+
+### 🎯 Atualmente
+
+- 📱 Aprofundando desenvolvimento **Android com Kotlin e Jetpack Compose**
+- 🗄️ Estudando **Hilt, Dagger e Android WorkManager**
+- 🌐 Trabalhando com **APIs REST e integração de serviços**
+- 🏗️ Aprofundando **arquitetura e boas práticas Android**
+- 🔐 Estudando **autenticação, sessões e segurança**
+- 🐳 Desenvolvendo conhecimentos em **Docker e ambientes de desenvolvimento**
+- ✍️ Continuando a escrever e transformar ideias em projetos
+
+---
+
+### 📊 O que procuro construir
+
+Não quero apenas escrever código que funciona.
+
+**Código é a ferramenta. Construir é o objetivo.** 💻
 
 ### "Quando me disseram que o limite é o céu, eu disse: por que não a lua?" 🚀
 
